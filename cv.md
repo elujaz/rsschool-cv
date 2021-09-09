@@ -1,6 +1,6 @@
 # Ilia Zemskov [@elujaz](https://github.com/elujaz "GitHub")
 
-[![Ilia Zemskov](/imgMD/avatar.jpg)](https://www.facebook.com/ilya.zemskov.142/ "Facebook")
+<img src="/imgMD/avatar.jpg" alt="Ilia Zemskov" width="328">
 
 |   |   |Contacts|   |   |
 |:---|---:|:---:|:---|---:|
