@@ -1,10 +1,10 @@
 # Ilia Zemskov [@elujaz](https://github.com/elujaz "GitHub")
 
-[![Ilia Zemskov](/img/avatar.jpg)](https://www.facebook.com/ilya.zemskov.142/ "Facebook")
+[![Ilia Zemskov](/imgMD/avatar.jpg)](https://www.facebook.com/ilya.zemskov.142/ "Facebook")
 
 |   |   |Contacts|   |   |
 |:---|---:|:---:|:---|---:|
-|[![gmail](/imgMD/gmail.png)](elujaz.i.a@gmail.com "Email") | [![vk](/imgMD/vk.png)](https://vk.com/ilya_zemskov "VK") |[__Samara__](https://www.google.com/maps/place/Lobnya,+Moscow+Oblast/@56.0316681,37.3991773,12z/data=!3m1!4b1!4m13!1m7!3m6!1s0x46b54afc73d4b0c9:0x3d44d6cc5757cf4c!2sMoscow!3b1!8m2!3d55.755826!4d37.6172999!3m4!1s0x46b53cfccb2462ed:0xae3f2af0a69470c8!8m2!3d56.0125857!4d37.480545 "Samara")| [![insta](/imgMD/instagram.png)](https://www.instagram.com/eluja.z/ "Instagram")|[![telegram](/imgMD/telegram.png)](https://t.me/eluja "Telegram")|
+|[![gmail](/imgMD/gmail.png)](elujaz.i.a@gmail.com "Email") | [![vk](/imgMD/vk.png)](https://vk.com/ilya_zemskov "VK") |[**Samara**](https://www.google.com/maps/place/Samara,+Samara+Oblast/@53.2605796,49.9179003,10z/data=!3m1!4b1!4m5!3m4!1s0x416618e22bd879d3:0xba95cda9bb3a030b!8m2!3d53.203772!4d50.1606382 "Samara")| [![instagram](/imgMD/instagram.png)](https://www.instagram.com/eluja.z/ "Instagram")|[![telegram](/imgMD/telegram.png)](https://t.me/eluja "Telegram")|
 
 # About me
 
@@ -23,10 +23,10 @@ For a positive outlook.
 
 > ## Skills
 
-* HTML 
-* CSS
-* JS
-* Git
+- HTML 
+- CSS
+- JS
+- Git
 
 > ## Code example
 
@@ -49,16 +49,16 @@ For a positive outlook.
 
 |   |   |   |   |
 |---|---|---|---|
-|_2014 - Until now_|__Senior attendant__|`airlines`| _Transaero / Aeroflot, Moscow_|
-|_2013 - 2014_|__Engineer-technologist__|`factory`| _Metallist, Samara_
-|_2012 - 2013_|__Military-service__|`regiment`| _Kremlin, Moscow_|
+|_2014 - Until now_|**Senior attendant**|`airlines`| *Transaero / Aeroflot, Moscow*|
+|*2013 - 2014*|**Engineer-technologist**|`factory`| *Metallist, Samara*
+|*2012 - 2013*|**Military-service**|`regiment`| *Kremlin, Moscow*|
 
 > ## Education
 
 |University|Department|Specialization|Graduation|
 |:---|:---:|:---:|---:|
-|[Samara State Aerospace University](https://ssau.ru "Samara University")|_Flying devices_|_Engineer_|_2012_|
-|[Stepik](https://stepik.org "Stepik")|_HTML/CSS basic_|_Web dev_|_2021_|
+|[Samara State Aerospace University](https://ssau.ru "Samara University")|*Flying devices*|*Engineer*|*2012*|
+|[Stepik](https://stepik.org "Stepik")|*HTML/CSS basic*|*Web dev*|*2021*|
 
 > ## English level
 
