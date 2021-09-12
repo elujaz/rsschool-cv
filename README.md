@@ -1,1 +1,1 @@
-https://elujaz.github.io/rsschool-cv/cv
+https://elujaz.github.io/rsschool-cv/
