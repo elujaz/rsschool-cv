@@ -1,0 +1,124 @@
+body { margin: 0 auto;	}
+
+@media screen and (min-width: 769px) {
+	body {
+		max-width: 994px;
+		margin: 2% auto;	
+	}
+}
+
+.page-header {
+	height: 250px;
+
+	background-color: rgba(132, 166, 214, 0.8);
+	border: 4px solid rgba(132, 166, 214, 0.1);
+	border-bottom: none;
+	border-radius: 1rem 1rem 0 0;
+}
+
+@media screen and (max-width: 310px) {
+	.page-header { visibility: hidden; }
+}
+
+main { font-family: 'Roboto', sans-serif; }
+
+@media screen and (min-width: 311px) {
+	main 
+	{	border-left: 4px solid rgba(132, 166, 214, 0.8);
+		border-right: 4px solid rgba(132, 166, 214, 0.8);
+	}
+}
+
+.avatar {
+	position: relative;
+	top: -125px;
+
+	margin: 0 auto;
+	text-align: center;
+}
+
+@media screen and (max-width: 310px) {
+	.avatar 		 { top: -40px; }
+	.avatar img  { visibility: hidden; }
+}
+
+.avatar h1 {
+	letter-spacing: 0.4rem;
+	color:rgba(132, 166, 214, 0.8);
+	margin: 0;
+  text-transform: uppercase;
+}
+
+.avatar p {
+	font-weight: 900;
+	letter-spacing: 0.3rem;
+	margin: 0;
+  text-transform: uppercase;
+}
+
+.information {
+	display: grid;
+	grid-template-columns: 1fr;
+	justify-items: start;
+}
+
+@media screen and (min-width: 769px) {
+	.information { grid-template-columns: 1fr 1fr;}
+}
+
+.information-section { margin: 0 15%; }
+
+.information-section h3 {
+	margin: 1rem 0;
+
+	font-size: 1.25rem;
+	font-weight: 700;
+	color: rgba(132, 166, 214, 0.8);
+	letter-spacing: 0.4rem;
+  text-transform: uppercase;
+}
+
+.information-section h4 {
+	margin: 1rem 0 0 0;
+	font-weight: 700;
+	letter-spacing: 0.12rem;
+}
+
+.information-section p {
+	margin: 0;
+	font-weight: 300; }
+
+.information-section a {
+	text-decoration: none;
+	color: rgba(132, 166, 214, 0.8);
+}
+.information-section a:hover { color: rgba(132, 166, 224, 1); }
+
+.information-section_link {
+  font-weight:400;
+  text-transform: uppercase;
+}
+
+.page-footer {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	text-align: center;
+	align-items: center;
+	height: 125px;
+}
+
+@media screen and (min-width: 311px) {
+	.page-footer { 
+		background-color: rgba(132, 166, 214, 0.8);
+		border: 4px solid rgba(132, 166, 214, 0.1);
+		border-top: none;
+		border-radius: 0 0 1rem 1rem;
+	}
+}
+
+.page-footer-year {
+	font-size: 1.1rem;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	letter-spacing: 0.2rem;
+}
