@@ -46,12 +46,14 @@ main { font-family: 'Roboto', sans-serif; }
 	letter-spacing: 0.4rem;
 	color:rgba(132, 166, 214, 0.8);
 	margin: 0;
+  text-transform: uppercase;
 }
 
 .avatar p {
 	font-weight: 900;
 	letter-spacing: 0.3rem;
 	margin: 0;
+  text-transform: uppercase;
 }
 
 .information {
@@ -73,6 +75,7 @@ main { font-family: 'Roboto', sans-serif; }
 	font-weight: 700;
 	color: rgba(132, 166, 214, 0.8);
 	letter-spacing: 0.4rem;
+  text-transform: uppercase;
 }
 
 .information-section h4 {
@@ -90,6 +93,11 @@ main { font-family: 'Roboto', sans-serif; }
 	color: rgba(132, 166, 214, 0.8);
 }
 .information-section a:hover { color: rgba(132, 166, 224, 1); }
+
+.information-section_link {
+  font-weight:400;
+  text-transform: uppercase;
+}
 
 .page-footer {
 	display: grid;
